@@ -13,7 +13,8 @@ https://arcg.is/1DPOWm0
 <br><br>
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE):</b><br>
 https://systems.jhu.edu/
-<br> <b> Trending by location </b> <br>
+<br><br>
+<br> <b> Trending by location </b>
 <br> https://clarity7764.github.io/ncovtrending/ 
 <br><br>
 <b>Data Sources:</b><br>
