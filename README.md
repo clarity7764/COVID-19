@@ -15,7 +15,7 @@ https://arcg.is/1DPOWm0
 https://systems.jhu.edu/
 <br><br>
 <br> <b> Trending by location </b>
-<br> https://clarity7764.github.io/ncovtrending/ 
+https://clarity7764.github.io/ncovtrending/ 
 <br><br>
 <b>Data Sources:</b><br>
 * World Health Organization (WHO): https://www.who.int/ <br>
